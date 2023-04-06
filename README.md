@@ -375,8 +375,6 @@ ORDER BY 1;
 | A           | 1020         |
 | B           | 320          |
 
----
-
 Customer A would have 1020 points at the end of January
 
 Customer B would have 320 points at the end of January
@@ -463,7 +461,6 @@ FROM member_cte;
 | C           | 2021-01-01 | ramen        | 12    | N      |         |
 | C           | 2021-01-07 | ramen        | 12    | N      |         |
 
----
 
 
 
