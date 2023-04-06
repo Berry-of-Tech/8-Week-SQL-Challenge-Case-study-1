@@ -421,9 +421,6 @@ ORDER BY 1, 2, 4 DESC;
 
 ### Rank All The Things
 
-First we need to select all the necessary columns from `sales`, `menu` and `members` tables - we do that using CTE and `WITH` statement.
-Next we can rank orders from this table by `customer_id` and `member` columns.
-
 ````sql
 WITH member_cte AS (
 SELECT s.customer_id, s.order_date, m.product_name, m.price,
@@ -462,7 +459,18 @@ FROM member_cte;
 | C           | 2021-01-07 | ramen        | 12    | N      |         |
 
 
+# 6. INSIGHTS
 
+From the analysis, we discover a few interesting insights that would be certainly useful for Danny.
+
+- Customer B is the most frequent visitor with 6 visits.
+- Danny’s Diner’s most popular item is ramen, followed by curry and sushi.
+- Customer A and C loves ramen whereas Customer B enjoy sushi, curry and ramen equally.
+- Customer A is the 1st member of Danny’s Diner and his first order is curry.
+- The last item ordered by Customers A and B before they became members are sushi and curry. 
+- Before they became members, both Customers A and B spent $25 and $40.
+
+Thank you! for reading
 
 
 
