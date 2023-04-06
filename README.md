@@ -1,7 +1,7 @@
 # 8-Week-SQL-Challenge-Case-study-1-Danny’s Diner
 ---
 
-![]()
+![](https://github.com/Berry-of-Tech/8-Week-SQL-Challenge-Case-study-1/blob/main/Danny%20Ma%20Case%20Study%201.png)
 
 ## 1. INTRODUCTION
 
@@ -30,7 +30,7 @@ The data set contains the following 3 tables which you may refer to the relation
 
 ## 3. ENTITY RELATIONSHIP DIAGRAM
 
-![]()
+![](https://github.com/Berry-of-Tech/8-Week-SQL-Challenge-Case-study-1/blob/main/Danny%20Ma%20ERD.webp)
 
 ---
 
