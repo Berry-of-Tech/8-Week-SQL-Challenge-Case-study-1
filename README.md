@@ -474,6 +474,10 @@ From the analysis, we discover a few interesting insights that would be certainl
 
 Thank you! for reading
 
+You can reach out to me on:
+- [LinkedIn](https://www.linkedin.com/in/alajede-mustapha-6071211a9/)
+- [Twitter](https://twitter.com/Berry_Analyst)
+
 
 
 
